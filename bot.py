@@ -11,10 +11,10 @@ import keyboards as kb
 from aiogram.types import ReplyKeyboardRemove
 
 
-token = "6781070415:AAGQspqRG1tRbq6zRF8cyIpFU3g-gY0XHMA"
+token = ""
 bot = Bot(token)
 dp = Dispatcher()
-users = {837175722}
+users = {}
 list = ["PEPEUSDT", "NDOUSDT", "QWEUSDT"]
 
 
